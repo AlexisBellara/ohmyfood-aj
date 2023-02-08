@@ -1,0 +1,25 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "Projet 3 Open Classroom, oh my food",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles.scss styles.css",
+    "build": "post.css styles.css -u autoprefixer -o ./build/styles.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisBellara/ohmyfood.git"
+  },
+  "author": "Alexis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisBellara/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/AlexisBellara/ohmyfood#readme",
+  "dependencies": {
+    "cssnano": "^5.1.14",
+    "sass": "^1.57.1"
+  }
+  
+}
