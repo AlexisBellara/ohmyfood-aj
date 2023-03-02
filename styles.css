@@ -227,16 +227,16 @@ header {
   margin-top: 3rem;
 }
 .menus .card__image-1 {
-  background-image: url("../sass/assets/menu_1.jpg");
+  background-image: url("./assets/menu_1.jpg");
 }
 .menus .card__image-2 {
-  background-image: url("../sass/assets/menu_2.jpg");
+  background-image: url("./assets/menu_2.jpg");
 }
 .menus .card__image-3 {
-  background-image: url("../sass/assets/menu_3.jpg");
+  background-image: url("./assets/menu_3.jpg");
 }
 .menus .card__image-4 {
-  background-image: url("../sass/assets/menu_4.jpg");
+  background-image: url("./assets/menu_4.jpg");
 }
 .menus .card__description {
   position: relative;
